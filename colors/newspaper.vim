@@ -48,7 +48,7 @@ hi PmenuThumb   guifg=#ffffff           guibg=#7B7939           gui=NONE
 hi Question     guifg=#496844           guibg=bg                gui=bold
 hi SignColumn   guifg=#ffffff           guibg=#b7b7a7           gui=NONE
 
-hi SpecialKey   guifg=#ffffff           guibg=#adadad           gui=NONE
+hi SpecialKey   guifg=#adadad           guibg=NONE              gui=NONE
 
 hi SpellBad     guisp=#883629                                   gui=undercurl
 hi SpellCap     guisp=#1920b2                                   gui=undercurl
